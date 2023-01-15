@@ -32,16 +32,16 @@ print("Greetings!")
 print()
 
 # let's do some math and show off our skills
-triangle_base = 10
-triangle_height = 5
-triangle_area = triangle_base * triangle_height / 2
+rectangular_length = 10
+rectangular_height = 5
+rectangular_area = rectangular_length * rectangular_height
 
 print("With scripts, ")
 print("It's import to print() everything the user should see.")
 print("We could concatenate text like before, but there's a better way.")
 print()
-print(f"Given base={triangle_base} and height={triangle_height},")
-print(f"the area of a triangle is {triangle_area}")
+print(f"Given height={rectangular_height} and length={rectangular_length},")
+print(f"the area of a triangle is {rectangular_area}")
 print()
 print("Python provides formatted strings called f-strings")
 print("for combining text and values. ")
