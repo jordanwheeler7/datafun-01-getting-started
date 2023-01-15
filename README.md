@@ -384,6 +384,25 @@ Toggle it in Mac Finder with Command Shift . ("command shift dot").
 Your repo has a hidden .git folder that maintains changes to your code.
 Do a web search to learn more as needed.
 
+## Tips and Troubleshooting
+
+### Issue: VS Code - No Source Control Icon
+
+Suggestion: If you're in VS Code, and you don't see the Source Control icon with a blue bubble, right-click on the sidebar icons, and make sure "Source Control" is checked.  
+
+### Issue: VS Code - Conda Error on Execute
+
+Suggestion: If you're in VS Code, On Windows, trying to run a script or execute a conda command and you get an error "conda: The term 'conda' is not recognized as a name of a cmdlet, function, script file, or executable program." Your VS Code terminal is likely Powershell (look for a the PS before your path). We want to switch it to "Command Prompt" for Python commands. From the VS Code menu / View / Command Palette. Start typing 'Terminal: Select Default Profile' until it appears, click it and change from Powershell to Command Prompt.
+
+### Issue: VS Code wants to install Pylance extension
+
+Suggestion: Sure. If VS Code suggests an extension, it's often good to go ahead and try it. 
+Read up a bit if curious, but the suggestions are usually helpul. 
+
+### Issue: VS Code Extension for GitHub - which one?
+
+Suggestion: VS Code Extension: [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) seems to work well and may especially good for beginners. 
+If you get a recommendation to use [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github), you can try that. It might be more suitable for experienced developers. [Here's a good article for getting started](https://www.techrepublic.com/article/add-github-vs-code/). You're encouraged to share your thoughts in the discussions.
 
 ## Additional Resources
 
