@@ -1,1 +1,71 @@
 # Paste the output from a sample run here.
+PS C:\Users\jorda\OneDrive\Documents\datafun-01-getting-started> & C:/Users/jorda/AppData/Local/Programs/Python/Python311/python.exe c:/Users/jorda/OneDrive/Document
+s/datafun-01-getting-started/user_script.py
+Hello!
+
+Enter your latest three run times
+
+What was your latest run time?4.7
+What was the second to latest run time?8
+What was your third latest run time?13
+
+We will see our stats for our run times
+
+With our first run=4.7, our second run=8.0, and our last run=13.0
+
+Our average run time
+8
+
+Total time spent running
+25
+
+ Your fastest run was
+4.7
+Your slowest run was
+13.0
+Our runs ranged in times from
+Range: 4 - 13
+Below we will see our times adjusted for running at 1,000 ft higher elevation
+7
+11
+18
+
+
+4.7 Man, you are fast!
+8 You are average
+13.0 Keep working! You are slower than the study
+PS C:\Users\jorda\OneDrive\Documents\datafun-01-getting-started> & C:/Users/jorda/AppData/Local/Programs/Python/Python311/python.exe c:/Users/jorda/OneDrive/Document
+s/datafun-01-getting-started/user_script.py
+Hello!
+
+Enter your latest three run times
+
+What was your latest run time?4.7
+What was the second to latest run time?8
+What was your third latest run time?13
+
+We will see our stats for our run times
+
+With our first run=4.7, our second run=8.0, and our last run=13.0
+
+Our average run time
+8
+
+Total time spent running
+25
+
+ Your fastest run was
+4.7
+Your slowest run was
+13.0
+Our runs ranged in times from
+Range: 4 - 13
+Below we will see our times adjusted for running at 1,000 ft higher elevation
+7
+11
+18
+
+
+4.7 Man, you are fast!
+8 You are average
+13.0 Keep working! You are slower than the study

@@ -1,0 +1,24 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\jorda\OneDrive\Documents\datafun-01-getting-started> & C:/Users/jorda/AppData/Local/Programs/Python/Python311/python.exe c:/Users/jorda/OneDrive/Document
+s/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm Jeph, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Pick from list
+{'wolf', 'snake', 'eagle'}snake
+
+You said snake.
+I said wolf.
+
+You Win!
+PS C:\Users\jorda\OneDrive\Documents\datafun-01-getting-started>
